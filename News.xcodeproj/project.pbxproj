@@ -23,6 +23,7 @@
 		F955D0AE24B760B600CD8031 /* Articles+Mapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = F955D0AD24B760B600CD8031 /* Articles+Mapping.swift */; };
 		F955D0B124B7691800CD8031 /* UILabel+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F955D0B024B7691800CD8031 /* UILabel+Extensions.swift */; };
 		F955D0B324B78D4000CD8031 /* UIImageView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F955D0B224B78D4000CD8031 /* UIImageView+Extensions.swift */; };
+		F955D0B524B7AF6A00CD8031 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = F955D0B424B7AF6A00CD8031 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		F955D0AD24B760B600CD8031 /* Articles+Mapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Articles+Mapping.swift"; sourceTree = "<group>"; };
 		F955D0B024B7691800CD8031 /* UILabel+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UILabel+Extensions.swift"; sourceTree = "<group>"; };
 		F955D0B224B78D4000CD8031 /* UIImageView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Extensions.swift"; sourceTree = "<group>"; };
+		F955D0B424B7AF6A00CD8031 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 		F955D07324B701F500CD8031 = {
 			isa = PBXGroup;
 			children = (
+				F955D0B424B7AF6A00CD8031 /* Readme.md */,
 				F955D07E24B701F500CD8031 /* News */,
 				F955D07D24B701F500CD8031 /* Products */,
 				5C2F6FF0092544751B3AADCB /* Pods */,
@@ -226,6 +229,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F955D0B524B7AF6A00CD8031 /* Readme.md in Resources */,
 				F955D08C24B701F600CD8031 /* LaunchScreen.storyboard in Resources */,
 				F955D08924B701F600CD8031 /* Assets.xcassets in Resources */,
 				F955D09924B70AA300CD8031 /* NewsTableViewCell.xib in Resources */,
